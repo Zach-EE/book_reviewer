@@ -1,4 +1,5 @@
 {
   "cSpell.ignoreWords": ["bookr"],
-  "cSpell.words": ["dotenv"]
+  "cSpell.words": ["dotenv"],
+  "python.formatting.provider": "black"
 }
